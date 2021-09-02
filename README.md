@@ -1,8 +1,7 @@
 # ROM:Hospital Beds Per US State
 
-**Prvi rok:
+**Prvi rok:**
 
-**
 **Drugi rok:**
 - Zbral Podatke za temo Postelje v Ameriških državah in jih uvozil
 - Pogledal kaj se dogaja s število postelj na 1000 prebivalcev v treh državah
